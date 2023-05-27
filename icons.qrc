@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file>iconsForPaint/brush.png</file>
+        <file>iconsForPaint/color.png</file>
+        <file>iconsForPaint/createNewFile.png</file>
+        <file>iconsForPaint/curve.png</file>
+        <file>iconsForPaint/ellipse.png</file>
+        <file>iconsForPaint/erase.png</file>
+        <file>iconsForPaint/figures.png</file>
+        <file>iconsForPaint/line.png</file>
+        <file>iconsForPaint/loadFile.png</file>
+        <file>iconsForPaint/pencil.png</file>
+        <file>iconsForPaint/polygon.png</file>
+        <file>iconsForPaint/rectangle.png</file>
+        <file>iconsForPaint/saveFile.png</file>
+        <file>iconsForPaint/text.png</file>
+        <file>iconsForPaint/redRectangleEraser.png</file>
+    </qresource>
+</RCC>
